@@ -1,0 +1,2 @@
+Processado=Temp\Processado
+Não Processado=Temp\NaoProcessado
